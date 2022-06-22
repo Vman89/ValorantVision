@@ -10,7 +10,7 @@ grpcio==1.29.0
 idna==2.9
 kiwisolver==1.2.0
 matplotlib==3.2.1
-numpy==1.18.4
+numpy==1.22.0
 pandas==1.0.3
 protobuf==3.11.3
 pyasn1==0.4.8
